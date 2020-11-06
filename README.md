@@ -1,28 +1,23 @@
-# collectionbuilder-gh
+# ALA Core Classroom:
+## CollectionBuilder: A Static Web Approach to Digital Projects in Libraries
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
+Repository to be used during the 2020 ALA Core Classroom Series.
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+Metadata for this collection can be downloaded here: 
+- [Psychiana Collection Demo Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
 
-Click the green "use this template" button above to get started. Create your template repository, then add new metadata and configure the repository to fit your collection and settings.
+The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository, so you don't need to upload them. 
+
+Demo content is drawn from the University of Idaho digital collections:
+- [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/)
+- [Carleton Watkins Mine Interiors Collection](https://www.lib.uidaho.edu/digital/watkins/)
+
+## Getting Started
+
+Click the green "use this template" button above to get started. Create your template repository, then add the metadata and configure the repository to fit your collection and settings.
 
 See [Getting Started Docs](https://collectionbuilder.github.io/docs/introduction.html) for detailed information. **Note:** 
 Since `collectionbuilder-gh` uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. GitHub repositories are limited to 1GB.
-
-## Demo CollectionBuilder with our Workshop Tutorial
-
-If you'd like to demo CollectionBuilder, we've made [a step-through tutorial](https://collectionbuilder.github.io/workshop/gh/) using the following spreadsheet and zipped directory. (The tutorial uses items from our [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), which is worth a visit!)
-
-Metadata is drawn from the following Google Sheet: 
-
-- [Psychiana Digital Collection Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
-
-Objects are collected in this zip file: 
-
-- [Psychiana Digital Collection Media Files](https://drive.google.com/file/d/1CPhNDv5FokC3utTCVmuXHS2OgnN9hR7q/view?usp=sharing) (Includes image files, pdfs, and mp3s)
-
-These files are stored in this [CollectionBuilder-gh Google Drive Folder](https://drive.google.com/drive/folders/1dTO8-3lusaKBdYyauyg_ziVqwLA4Fons?usp=sharing), along with some other metadata sheets and zipped object directories that can be used for other workshops and demonstrations.
 
 ## More on CollectionBuilder
 
