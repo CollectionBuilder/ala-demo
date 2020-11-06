@@ -6,9 +6,9 @@ Repository to be used during the 2020 ALA Core Classroom Series.
 Metadata for this collection can be downloaded here: 
 - [Psychiana Collection Demo Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
 
-The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository, so you don't need to upload them. 
+The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository (in the `objects` directory), so you don't need to upload them. 
 
-Demo content is drawn from the University of Idaho digital collections:
+Demo content is drawn from the following University of Idaho digital collections:
 - [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/)
 - [Carleton Watkins Mine Interiors Collection](https://www.lib.uidaho.edu/digital/watkins/)
 
