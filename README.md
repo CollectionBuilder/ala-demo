@@ -8,9 +8,8 @@ Metadata for this collection can be downloaded here:
 
 The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository (in the `objects` directory), so you don't need to upload them. 
 
-Demo content is drawn from the following University of Idaho digital collections:
+Demo content is drawn from the following University of Idaho digital collection:
 - [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/)
-- [Carleton Watkins Mine Interiors Collection](https://www.lib.uidaho.edu/digital/watkins/)
 
 ## Getting Started
 
