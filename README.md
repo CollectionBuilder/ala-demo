@@ -3,13 +3,17 @@
 
 Repository to be used during the 2020 ALA Core Classroom Series.
 
-Metadata for this collection can be downloaded here: 
+Metadata for this workshop can be downloaded here: 
 - [Psychiana Collection Demo Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
 
 The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository (in the `objects` directory), so you don't need to upload them. 
 
-Demo content is drawn from the following University of Idaho digital collection:
+Two demo metadata sets are available for use as you're learning. Both are drawn from the following University of Idaho digital collection:
 - [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/)
+- [Carleton Watkins Mine Interiors Collection](https://www.lib.uidaho.edu/digital/watkins/)
+
+To use the Watkins material, copy [this spreadsheet](https://docs.google.com/spreadsheets/d/1mThECwBYaUdvUrSbc9d2wbjedpYyvVD89jJ15R-7Qmo/edit?usp=sharing)
+The Watkins objects are already in the repository.
 
 ## Getting Started
 
@@ -24,7 +28,7 @@ Since `collectionbuilder-gh` uses [GitHub Pages](https://pages.github.com/), it 
 It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
 
 `collectionbuilder-gh` aims to be well documented and easy to configure by following the example, with the potential to scaffold learning of a multitude of transferable digital and data skills.
-A project in "minimal computing", it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
+A project in "minimal computing," it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
 
 Learn about:
 
