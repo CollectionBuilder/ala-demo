@@ -1,25 +1,25 @@
 # ALA Core Classroom:
 ## CollectionBuilder: A Static Web Approach to Digital Projects in Libraries
 
-Repository to be used during the 2020 ALA Core Classroom Series.
+Repository to be used during the 2020 & 2021 ALA Core Classroom Series.
 
-Metadata for this workshop can be downloaded here: 
+Metadata for this demo collection can be downloaded here: 
 - [Psychiana Collection Demo Metadata](https://drive.google.com/open?id=1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4)
 
 The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository (in the `objects` directory), so you don't need to upload them. 
 
-Two demo metadata sets are available for use as you're learning. Both are drawn from the following University of Idaho digital collections:
+Two demo metadata sets are available for use as you're using this demo collection. Both are drawn from the following University of Idaho digital collections:
 - [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/)
 - [Carleton Watkins Mine Interiors Collection](https://www.lib.uidaho.edu/digital/watkins/)
 
-To use the Watkins material, copy [this spreadsheet](https://docs.google.com/spreadsheets/d/1mThECwBYaUdvUrSbc9d2wbjedpYyvVD89jJ15R-7Qmo/edit?usp=sharing)
-The Watkins objects are already in the repository.
+To use the Watkins material, download [this spreadsheet](https://docs.google.com/spreadsheets/d/1mThECwBYaUdvUrSbc9d2wbjedpYyvVD89jJ15R-7Qmo/edit?usp=sharing)
+The Watkins objects are already in the repository, in the `objects` directory.
 
 ## Getting Started
 
 Click the green "use this template" button above to get started. Create your template repository, then add the metadata and configure the repository to fit your collection and settings.
 
-See [Getting Started Docs](https://collectionbuilder.github.io/docs/introduction.html) for detailed information. **Note:** 
+See [Getting Started Docs](https://collectionbuilder.github.io/docs/introduction.html) for detailed information, or follow the CollectionBuilder-GH [tutorial videos](https://collectionbuilder.github.io/workshop/gh/). **Note:** 
 Since `collectionbuilder-gh` uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. GitHub repositories are limited to 1GB.
 
 ## More on CollectionBuilder
@@ -58,7 +58,7 @@ Learn about:
 
 Check out the [CollectionBuilder-GH tutorial](https://collectionbuilder.github.io/collectionbuilder-gh/documentation/) for how to get started, or visit the [CollectionBuilder home](https://collectionbuilder.github.io/) for more information.
 
-If you are interested in using CollectionBuilder, or are already using it, please drop us a line (**libstatic.uidaho@gmail.com**) since we would love to learn more about it's use in the wild. 
+If you are interested in using CollectionBuilder, or are already using it, please drop us a line (**libstatic.uidaho@gmail.com**) since we would love to learn more about its use in the wild. 
 There are also currently opportunities to [collaborate on CollectionBuilder](https://collectionbuilder.github.io/about.html#the-grant).
 
 ## License
