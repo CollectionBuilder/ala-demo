@@ -8,7 +8,7 @@ Metadata for this workshop can be downloaded here:
 
 The digital objects described by the metadata (including image files, pdfs, and mp3s) are already in this repository (in the `objects` directory), so you don't need to upload them. 
 
-Two demo metadata sets are available for use as you're learning. Both are drawn from the following University of Idaho digital collection:
+Two demo metadata sets are available for use as you're learning. Both are drawn from the following University of Idaho digital collections:
 - [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/)
 - [Carleton Watkins Mine Interiors Collection](https://www.lib.uidaho.edu/digital/watkins/)
 
